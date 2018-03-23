@@ -1,0 +1,14 @@
+body {
+  background-color: lightblue;
+}
+.container {
+  text-align: center;
+  margin-top: 60px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  left: 25%;
+  width: 50%;
+  background-color: white;
+  border-radius: 2px;
+}
